@@ -46,8 +46,8 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
-    subtitle = "A simple, retro theme for Hugo"
+    title = "z2e3r40o"
+    subtitle = "do not take this seriously"
     owner = ""
     keywords = ""
     copyright = ""
@@ -61,3 +61,10 @@ paginate = 5
       logoText = "z2e3r40o"
       logoHomeLink = "/"
 
+[languages.en.menu]
+  [[languages.en.menu.main]]
+    name = "github"
+    url = "https://github.com/z2e3r40o"
+  [[languages.en.menu.main]]
+    name = "twitter"
+    url = "https://twitter.com/z2e3r40o"
