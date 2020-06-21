@@ -1,3 +1,7 @@
 :root {
   --accent: #8E7CA2;
 }
+
+.post-meta {
+    color: #8FA998;
+}
